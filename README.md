@@ -1,4 +1,4 @@
-# Bird-Eye-View-
+# Bird Eye View
 
 We will construct a bird's eye view from a 2D image using esstial parameters such as camera rotation and transformation in this algorithm.
 
